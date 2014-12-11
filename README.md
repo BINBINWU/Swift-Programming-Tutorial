@@ -1,7 +1,7 @@
 Swift-Programming-Tutorial
 ==========================
 
-Tutorial Videos By Skip Wilson in Youtube
+Here are some great tutorial videos by Skip Wilson in Youtube.
 
 * You can watch more in [HERE](http://www.youtube.com/user/SkipCasts/videos)
 
